@@ -1,0 +1,41 @@
+body {
+color: #5a5a5a; 
+}
+
+
+.pubs{
+
+font-size:small;
+
+
+}
+
+.pubs p {
+margin: 5px 0 0;
+}
+
+.text-highlight{
+font-weight:bold
+
+}
+
+.title {
+font-family: 'Open Sans', sans-serif;
+color:#000000;
+}
+
+.position {
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+a {
+  color: #5a5a5a;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #5a5a5a;
+  text-decoration: underline;
+}
